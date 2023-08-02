@@ -1,8 +1,8 @@
-#TODO: Create a letter using starting_letter.txt 
-#for each name in invited_names.txt
-#Replace the [name] placeholder with the actual name.
-#Save the letters in the folder "ReadyToSend".
-    
-#Hint1: This method will help you: https://www.w3schools.com/python/ref_file_readlines.asp
-    #Hint2: This method will also help you: https://www.w3schools.com/python/ref_string_replace.asp
-        #Hint3: THis method will help you: https://www.w3schools.com/python/ref_string_strip.asp
+#TODO: Создайте письмо, используя файл starting_letter.txt
+#для каждого имени в invited_names.txt
+#Замените заполнитель [name] на правильное имя.
+#Сохраните письма в папке "ReadyToSend".
+
+#Подсказка 1: Этот метод поможет вам: https://www.w3schools.com/python/ref_file_readlines.asp
+    #Подсказка 2: Этот метод также поможет вам: https://www.w3schools.com/python/ref_string_replace.asp
+        #Подсказка 3: Этот метод поможет вам: https://www.w3schools.com/python/ref_string_strip.asp
